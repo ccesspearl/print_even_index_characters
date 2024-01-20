@@ -24,3 +24,6 @@ print("Origital String is",user_string)
 print("Printing only even index chars")
 
 # Create a loop 
+for i in range(0,length_string,2):
+    print(user_string[i])
+
