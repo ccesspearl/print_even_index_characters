@@ -21,4 +21,6 @@ length_string = len(user_string)
 print("Origital String is",user_string)
 
 # Print the second message 
+print("Printing only even index chars")
+
 # Create a loop 
