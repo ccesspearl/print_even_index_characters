@@ -12,6 +12,8 @@
 #Pseudocode 
 
 # Let the user input string 
+user_string = input("Input string: ")
+
 # Create a len function to calculate the length of the inputted string 
 # Print the first message
 # Print the second message 
