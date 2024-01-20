@@ -18,5 +18,7 @@ user_string = input("Input string: ")
 length_string = len(user_string)
 
 # Print the first message
+print("Origital String is",user_string)
+
 # Print the second message 
 # Create a loop 
