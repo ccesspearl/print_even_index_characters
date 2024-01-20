@@ -15,6 +15,8 @@
 user_string = input("Input string: ")
 
 # Create a len function to calculate the length of the inputted string 
+length_string = len(user_string)
+
 # Print the first message
 # Print the second message 
 # Create a loop 
